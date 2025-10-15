@@ -2,12 +2,12 @@
 
 ¡Hola! 👋  
 Gracias por tu interés en formar parte de nuestro equipo.  
-Esta prueba técnica tiene como objetivo conocer tu forma de resolver problemas, tu lógica de desarrollo y tu nivel de dominio en tecnologías web.
+Esta prueba técnica tiene como objetivo conocer tu forma de resolver problemas, tu lógica de desarrollo y tu nivel de dominio en algunas de las tecnologías que utilizamos en TIC Nacer Global.
 
 ---
 
 ## 🧠 Objetivo
-Analizar un conjunto de datos, crear una base de datos en **MySQL** y desarrollar un **reporte dinámico con PHP**, aplicando buenas prácticas de programación y diseño.
+Analizar un conjunto de datos, crear una base de datos en **MySQL** y desplegar un **reporte con PHP**, aplicando tus conocimientos y lógica de programación.
 
 ---
 
